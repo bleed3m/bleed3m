@@ -1,4 +1,4 @@
-🛸 1 of 1 🛸
+🛸 1 of 1
 
 <!--
 **bleed3m/bleed3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
